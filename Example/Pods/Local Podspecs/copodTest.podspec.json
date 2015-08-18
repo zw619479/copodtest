@@ -1,0 +1,25 @@
+{
+  "name": "copodTest",
+  "version": "0.1.0",
+  "summary": "A short description of copodTest.",
+  "description": "",
+  "homepage": "git@github.com:zw619479/copodtest",
+  "license": "MIT",
+  "authors": {
+    "zw": "619479029@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:zw619479/copodtest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "copodTest": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
